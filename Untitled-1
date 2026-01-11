@@ -1,0 +1,15 @@
+// Variable naming best practices
+
+// Allowed & Best Practice
+let user;
+let firstName;
+let results; ---best pratice to use name rather than random words like a
+let firstName2; 
+let name = 'John'
+let age = 20
+// Not allowed / Npt recommended 
+var apple;
+let first_name;
+let a;
+let 2firstName;
+let let; "John", age = 20;
